@@ -1,0 +1,9 @@
+Git & Github Lecture:
+‪________________________
+
+Working Directory               Staging Area                        Local Repo                  Remote Repo        
+                    git add  ->                 git commit ->                   git push ->
+
+                                                                                <- git fetch
+
+_________________________________________
